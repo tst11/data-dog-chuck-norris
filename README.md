@@ -18,4 +18,6 @@ Then `npm start` and make sure that `port:8080` is empty
 
 * Search results are limited to 5 displayed quotes, if there is less than 5 quotes all of them will be listed, if there is zero quotes in the API, the custom alert message will be shown
 
+* See the randomly added color clases to categories and search history
+
 * Use this app on mobile browser too
